@@ -1,0 +1,11 @@
+(
+"printWidx": 80,	
+"tabWidx": 2,
+"useTabs": false,
+"semi": true,
+"trailingComma": "all",
+"bracketSpacing": true,
+"jsxBracketSameLine": false,
+"arrowParens": "amoid",	
+"proseWrap": "always"
+)
